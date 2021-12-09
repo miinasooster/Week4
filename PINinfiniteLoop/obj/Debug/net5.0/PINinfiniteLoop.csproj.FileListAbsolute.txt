@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/bin/Debug/net5.0/PINinfiniteLoop.deps.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/bin/Debug/net5.0/PINinfiniteLoop.runtimeconfig.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/bin/Debug/net5.0/PINinfiniteLoop.runtimeconfig.dev.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/bin/Debug/net5.0/PINinfiniteLoop.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/bin/Debug/net5.0/ref/PINinfiniteLoop.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/bin/Debug/net5.0/PINinfiniteLoop.pdb
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/obj/Debug/net5.0/PINinfiniteLoop.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/obj/Debug/net5.0/PINinfiniteLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/obj/Debug/net5.0/PINinfiniteLoop.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/obj/Debug/net5.0/PINinfiniteLoop.AssemblyInfo.cs
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/obj/Debug/net5.0/PINinfiniteLoop.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/obj/Debug/net5.0/PINinfiniteLoop.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/obj/Debug/net5.0/ref/PINinfiniteLoop.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/obj/Debug/net5.0/PINinfiniteLoop.pdb
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PINinfiniteLoop/obj/Debug/net5.0/PINinfiniteLoop.genruntimeconfig.cache

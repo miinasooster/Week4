@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/bin/Debug/net5.0/PinKoodKolmeKatsega.deps.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/bin/Debug/net5.0/PinKoodKolmeKatsega.runtimeconfig.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/bin/Debug/net5.0/PinKoodKolmeKatsega.runtimeconfig.dev.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/bin/Debug/net5.0/PinKoodKolmeKatsega.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/bin/Debug/net5.0/ref/PinKoodKolmeKatsega.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/bin/Debug/net5.0/PinKoodKolmeKatsega.pdb
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/obj/Debug/net5.0/PinKoodKolmeKatsega.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/obj/Debug/net5.0/PinKoodKolmeKatsega.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/obj/Debug/net5.0/PinKoodKolmeKatsega.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/obj/Debug/net5.0/PinKoodKolmeKatsega.AssemblyInfo.cs
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/obj/Debug/net5.0/PinKoodKolmeKatsega.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/obj/Debug/net5.0/PinKoodKolmeKatsega.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/obj/Debug/net5.0/ref/PinKoodKolmeKatsega.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/obj/Debug/net5.0/PinKoodKolmeKatsega.pdb
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/PinKoodKolmeKatsega/obj/Debug/net5.0/PinKoodKolmeKatsega.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/bin/Debug/net5.0/RandomNumber.deps.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/bin/Debug/net5.0/RandomNumber.runtimeconfig.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/bin/Debug/net5.0/RandomNumber.runtimeconfig.dev.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/bin/Debug/net5.0/RandomNumber.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/bin/Debug/net5.0/ref/RandomNumber.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/bin/Debug/net5.0/RandomNumber.pdb
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/obj/Debug/net5.0/RandomNumber.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/obj/Debug/net5.0/RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/obj/Debug/net5.0/RandomNumber.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/obj/Debug/net5.0/RandomNumber.AssemblyInfo.cs
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/obj/Debug/net5.0/RandomNumber.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/obj/Debug/net5.0/RandomNumber.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/obj/Debug/net5.0/ref/RandomNumber.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/obj/Debug/net5.0/RandomNumber.pdb
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/RandomNumber/obj/Debug/net5.0/RandomNumber.genruntimeconfig.cache

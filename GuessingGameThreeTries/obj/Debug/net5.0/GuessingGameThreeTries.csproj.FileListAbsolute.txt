@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/bin/Debug/net5.0/GuessingGameThreeTries.deps.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/bin/Debug/net5.0/GuessingGameThreeTries.runtimeconfig.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/bin/Debug/net5.0/GuessingGameThreeTries.runtimeconfig.dev.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/bin/Debug/net5.0/GuessingGameThreeTries.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/bin/Debug/net5.0/ref/GuessingGameThreeTries.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/bin/Debug/net5.0/GuessingGameThreeTries.pdb
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/obj/Debug/net5.0/GuessingGameThreeTries.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/obj/Debug/net5.0/GuessingGameThreeTries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/obj/Debug/net5.0/GuessingGameThreeTries.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/obj/Debug/net5.0/GuessingGameThreeTries.AssemblyInfo.cs
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/obj/Debug/net5.0/GuessingGameThreeTries.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/obj/Debug/net5.0/GuessingGameThreeTries.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/obj/Debug/net5.0/ref/GuessingGameThreeTries.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/obj/Debug/net5.0/GuessingGameThreeTries.pdb
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameThreeTries/obj/Debug/net5.0/GuessingGameThreeTries.genruntimeconfig.cache

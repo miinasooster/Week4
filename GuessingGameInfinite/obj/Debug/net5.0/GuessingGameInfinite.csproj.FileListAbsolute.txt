@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.AssemblyInfo.cs
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/bin/Debug/net5.0/GuessingGameInfinite.deps.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/bin/Debug/net5.0/GuessingGameInfinite.runtimeconfig.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/bin/Debug/net5.0/GuessingGameInfinite.runtimeconfig.dev.json
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/bin/Debug/net5.0/GuessingGameInfinite.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/bin/Debug/net5.0/ref/GuessingGameInfinite.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/bin/Debug/net5.0/GuessingGameInfinite.pdb
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/ref/GuessingGameInfinite.dll
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.pdb
+/Users/miinasooster/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.genruntimeconfig.cache
